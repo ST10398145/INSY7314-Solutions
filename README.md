@@ -6,6 +6,8 @@ This is the README 1 Answers.
 
 <img width="959" height="477" alt="Pulsevote URL screenshot" src="https://github.com/user-attachments/assets/0363df6b-dfe1-4054-8dda-a862226123f8" />
 
+
+
 This is the README 2 Answers.
 
 
