@@ -1,12 +1,3 @@
-# Ignore SSL certificates
-**/ssl/key.pem
-**/ssl/cert.pem
-
-# Ignore environment variables
+node_modules
 .env
-
-# Ignore node modules
-node_modules/
-
-# Ignore build output
-dist/
+dist
